@@ -1,0 +1,12 @@
+{
+  "name": "pritlix-bot",
+  "main": "src/index.js",
+  "compatibility_date": "2026-01-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "pritlix-bot",
+      "database_id": "c4279a84-ef11-4259-ba16-1903dbc15575"
+    }
+  ]
+}
